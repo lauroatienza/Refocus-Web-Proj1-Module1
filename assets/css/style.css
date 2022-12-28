@@ -1,5 +1,6 @@
 *{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
 }
 
 body{
@@ -42,6 +43,7 @@ body{
   padding: 10px;
   vertical-align: bottom;
   border: 1px solid #192140;
+  color: #192140;
 }
 
 .input-form button{
